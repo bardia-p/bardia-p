@@ -29,15 +29,10 @@
 </p>
 
 In addition to these I am also familiar with the following:
-- Git
-- Docker 
-- GO 
-- Assembly
-- LaTeX
-- MongoDB
-- Eclipse
-- IntelliJ
-- IPC(Shared Memory, Message Queues) & POSIX
+
+- GO, Assembly, LaTeX, Bash Script
+- Git, Docker, MongoDB, Eclipse, IntelliJ, IPC(Shared Memory, Message Queues) & POSIX
+- Object Oriented Programming, Operating Systems, Data Structures and Algorithms, and Embedded Software Development
 
 ### Here is a summary of my profile:
 <p align="center">
