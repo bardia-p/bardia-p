@@ -28,6 +28,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardia-p&layout=compact&hide=Turing&langs_count=10&theme=radical" />
 </p>
 
+In addition to these I am also familiar with the following:
+- Git
+- Docker 
+- GO 
+- Assembly
+- LaTeX
+- MongoDB
+- Eclipse
+- IntelliJ
+- IPC(Shared Memory, Message Queues) & POSIX
 
 ### Here is a summary of my profile:
 <p align="center">
