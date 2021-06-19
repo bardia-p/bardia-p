@@ -15,13 +15,26 @@
 ### 📫 How to reach me: 
 - Checkout my portfolio website: [:globe_with_meridians: My Portfolio!](https://bardia-p.github.io/)
 
-- Or find my on [Linkedin](https://www.linkedin.com/in/bardiaparmoun/)
+- Or find me on [Linkedin](https://www.linkedin.com/in/bardiaparmoun/)
 
 - Or shoot me an [:email: Email](mailto:bardiaparmoun@gmail.com)
 
 - And finally you can find me on [leetCode](https://leetcode.com/bardiap/) and [HackerRank](https://www.hackerrank.com/bardiaparmoun).
 
 ### ⚡ Fun fact: Here is a cool website with a duck to help you debug your code! [🦆](http://duckie.me/)
+
+### Here is some of the languages that I know:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardia-p&layout=compact&hide=Turing&langs_count=10&theme=radical" />
+</p>
+
+
+### Here is a summary of my profile:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bardia-p&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bardia-p&theme=radical" />
+</p>
+
 
 <!--
 **bardia-p/bardia-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
