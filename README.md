@@ -2,9 +2,19 @@
 
 ## Welcome to my github profile!
 
-![](https://komarev.com/ghpvc/?username=bardia-p)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bardia-p" />
+</p>
 
+### 🔭 I’m currently a third year software engineering student at Carleton University!
 
+### 🌱 I’m currently learning about embedded software development.
+
+### 💬 Ask me about how many musical instruments I can play! :notes:
+
+### 📫 How to reach me: 
+- Checkout my portfolio website: [:globe_with_meridians: My Portfolio!](https://bardia-p.github.io/)
+- Here is my email: [:email:](mailto:bardiaparmoun@gmail.com)
 <!--
 **bardia-p/bardia-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
