@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I'm Bardia!
+
+## Welcome to my github profile!
+
+![](https://komarev.com/ghpvc/?username=bardia-p)
+
 
 <!--
 **bardia-p/bardia-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
