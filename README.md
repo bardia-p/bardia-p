@@ -10,7 +10,7 @@
 
 ### 🌱 I’m currently learning about embedded software development.
 
-### 💬 Ask me about how many musical instruments I can play! :notes:
+### 💬 Ask me how many musical instruments I can play! :notes:
 
 ### 📫 How to reach me: 
 - Checkout my portfolio website: [:globe_with_meridians: My Portfolio!](https://bardia-p.github.io/)
