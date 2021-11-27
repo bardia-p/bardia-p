@@ -19,7 +19,7 @@
 
 ### Here is some of the languages that I know:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardia-p&layout=compact&hide=Turing&langs_count=10&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardia-p&layout=compact&hide=Turing,Assembly&langs_count=10&theme=radical" />
 </p>
 
 In addition to these I am also familiar with the following:
