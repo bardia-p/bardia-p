@@ -2,10 +2,6 @@
 
 ## Welcome to my github profile!
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bardia-p" />
-</p>
-
 ### 🔭 I’m currently a third year software engineering student at Carleton University.
 
 ### 🌱 I’m currently learning about embedded software development.
@@ -21,8 +17,6 @@
 
 - And finally you can find me on [leetCode](https://leetcode.com/bardiap/) and [HackerRank](https://www.hackerrank.com/bardiaparmoun).
 
-### ⚡ Fun fact: Here is a cool website with a duck to help you debug your code! [🦆](http://duckie.me/)
-
 ### Here is some of the languages that I know:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardia-p&layout=compact&hide=Turing&langs_count=10&theme=radical" />
@@ -33,12 +27,6 @@ In addition to these I am also familiar with the following:
 - GO, Assembly, LaTeX, Bash Script
 - Git, Docker, MongoDB, Eclipse, IntelliJ, IPC(Shared Memory, Message Queues) & POSIX
 - Object Oriented Programming, Operating Systems, Data Structures and Algorithms, and Embedded Software Development
-
-### Here is a summary of my profile:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bardia-p&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bardia-p&theme=radical" />
-</p>
 
 
 <!--
