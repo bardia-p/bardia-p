@@ -1,12 +1,6 @@
 # Hi there 👋 I'm Bardia!
 
-## Welcome to my github profile!
-
 ### 🔭 I’m currently a third year software engineering student at Carleton University.
-
-### 🌱 I’m currently learning about embedded software development.
-
-### 💬 Ask me how many musical instruments I can play! :notes:
 
 ### 📫 How to reach me: 
 - Checkout my portfolio website: [:globe_with_meridians: My Portfolio!](https://bardia-p.github.io/)
@@ -21,12 +15,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardia-p&layout=compact&hide=Turing,Assembly&langs_count=10&theme=radical" />
 </p>
-
-In addition to these I am also familiar with the following:
-
-- GO, Assembly, LaTeX, Bash Script
-- Git, Docker, MongoDB, Eclipse, IntelliJ, IPC(Shared Memory, Message Queues) & POSIX
-- Object Oriented Programming, Operating Systems, Data Structures and Algorithms, and Embedded Software Development
 
 
 <!--
