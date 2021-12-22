@@ -9,7 +9,7 @@
 
 - Or shoot me an [:email: Email](mailto:bardiaparmoun@gmail.com)
 
-- And finally you can find me on [leetCode](https://leetcode.com/bardiap/) and [HackerRank](https://www.hackerrank.com/bardiaparmoun).
+- And finally you can find me on [LeetCode](https://leetcode.com/bardiap/) and [HackerRank](https://www.hackerrank.com/bardiaparmoun).
 
 ### Here is some of the languages that I know:
 <p align="center">
