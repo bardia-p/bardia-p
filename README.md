@@ -1,10 +1,9 @@
 # Hi there 👋 I'm Bardia!
 
 ### 🔭 I’m currently a third year software engineering student at Carleton University!
+### 🌱 You can learn more about my projects on my [🌐 portfolio website](https://bardia-p.github.io/)
 
-### 📫 How to reach me: 
-<a href="https://bardia-p.github.io/" target="blank"/><img align="center" src="https://www.svgrepo.com/show/40309/earth-globe.svg" height="30" width="40" /></a>
-<a href="mailto:bardiaparmoun@gmail.com" target="blank"/><img align="center" src="https://www.svgrepo.com/show/92674/email.svg" height="30" width="40" /></a>
+### 📫 Connect with me: 
 <a href="https://www.linkedin.com/in/bardiaparmoun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bardiaparmoun" height="30" width="40" /></a>
 <a href="https://leetcode.com/bardiap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bardiap" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bardiaparmoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bardiaparmoun" height="30" width="40" /></a>
