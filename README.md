@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Bardia!
 
-### 🔭 I’m currently a fourth-year software engineering student at Carleton University!
+### 🔭 I’m a graduate student at Carleton University researching autonomous agents!
 ### 🌱 You can learn more about my projects on my [🌐 portfolio website](https://bardia-p.github.io/)
 
 ### 📫 Connect with me: 
