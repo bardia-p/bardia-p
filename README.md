@@ -10,12 +10,6 @@
 <a href="https://codeforces.com/profile/bardia.p.1380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bardia.p.1380" height="30" width="40" /></a>
 <a href="https://kaggle.com/bardiaparmoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bardiaparmoun" height="30" width="40" /></a>
 
-### Here are some of the languages that I know:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardia-p&layout=compact&hide=Turing,Assembly&langs_count=10&theme=radical" />
-</p>
-
-
 <!--
 **bardia-p/bardia-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
